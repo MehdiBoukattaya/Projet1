@@ -32,7 +32,7 @@
 
       <div class="col-lg-7 col-md-12 px-4">
             <div class="card p-3 shadow-sm rounded">
-              <img src="images/artists/double.jpg" class="img-fluid rounded mb-3">
+              <img src="images/artists/1.jpg" class="img-fluid rounded mb-3">
               <h5>Nom de l'artiste</h5>
               <h6>100$ par heure</h6>
             </div>
