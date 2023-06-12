@@ -82,7 +82,7 @@
               <h5 class="mt-2">Artist 3</h5>
             </div>
             <div class="swiper-slide bg-white text-center overflow-hidden rounded">
-              <img src="images/artists/4.jpeg" class="w-100">
+              <img src="images/artists/4.jpg" class="w-100">
               <h5 class="mt-2">Artist 4</h5>
             </div>
 
