@@ -39,19 +39,19 @@
         <div class="swiper swiper-container">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                    <img src="images/carousel/1.png" class="w-100 d-block" />
+                    <img src="images/carousel/1.jpg" class="w-100 d-block" />
                 </div>
                 <div class="swiper-slide">
-                    <img src="images/carousel/2.png" class="w-100 d-block" />
+                    <img src="images/carousel/2.jpg" class="w-100 d-block" />
                 </div>
                 <div class="swiper-slide">
-                    <img src="images/carousel/3.png" class="w-100 d-block" />
+                    <img src="images/carousel/3.jpg" class="w-100 d-block" />
                 </div>
                 <div class="swiper-slide">
-                    <img src="images/carousel/4.png" class="w-100 d-block" />
+                    <img src="images/carousel/4.jpg" class="w-100 d-block" />
                 </div>
                 <div class="swiper-slide">
-                    <img src="images/carousel/5.png" class="w-100 d-block" />
+                    <img src="images/carousel/5.jpg" class="w-100 d-block" />
                 </div>
             </div>
         </div>
