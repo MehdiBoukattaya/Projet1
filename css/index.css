@@ -36,6 +36,10 @@ margin: 0;
     color: #ffffff;
     border-color: #2ec1ac;
   }
+  .vertical-center {
+    width: 100%;
+    text-align: center;
+  }
   
 
  

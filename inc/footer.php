@@ -10,7 +10,7 @@
     </div>
     <div class="col-lg-4 p-4 ">
       <h5 class="mb-3">Links</h5>
-      <a href="index.php" class="d-inline-block mb-2 text-dark text-decoration-none">Accueik</a> <br>
+      <a href="index.php" class="d-inline-block mb-2 text-dark text-decoration-none">Accueil</a> <br>
       <a href="artists.php" class="d-inline-block mb-2 text-dark text-decoration-none">Artists</a> <br>
       <a href="contact.php" class="d-inline-block mb-2 text-dark text-decoration-none">Nous contacter</a> <br>
       <a href="about.php" class="d-inline-block mb-2 text-dark text-decoration-none">A propos</a>

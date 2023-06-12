@@ -68,6 +68,7 @@
                   <option value="1">Artiste 1</option>
                   <option value="2">Artiste 2</option>
                   <option value="3">Artiste 3</option>
+                  <option value="3">Artiste 4</option>
                 </select>
                 </div>
 
