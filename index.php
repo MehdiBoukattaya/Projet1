@@ -76,7 +76,7 @@
             </div>
             <div class="col-lg-4 col-md-6 my-3">  
             <div class="card border-0 shadow" style=" max-width: 350px; margin: auto;">
-                <img src="images/tattoo_styles/1.jpg" class="card-img-top">
+                <img src="images/tattoo_styles/2.jpg" class="card-img-top">
                 <div class="card-body ">
                         <h5 class="fw-bold">Style 2</h5>
                         <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus orci, mattis sed auctor a, blandit in lorem. Donec bibendum metus non turpis malesuada, ut tempus sapien scelerisque. </p>
@@ -88,7 +88,7 @@
             </div>
             <div class="col-lg-4 col-md-6 my-3">  
             <div class="card border-0 shadow" style=" max-width: 350px; margin: auto;">
-                <img src="images/tattoo_styles/1.jpg" class="card-img-top">
+                <img src="images/tattoo_styles/3.jpg" class="card-img-top">
                 <div class="card-body ">
                         <h5 class="fw-bold">Style 3</h5>
                         <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus orci, mattis sed auctor a, blandit in lorem. Donec bibendum metus non turpis malesuada, ut tempus sapien scelerisque. </p>
