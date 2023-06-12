@@ -43,6 +43,12 @@
           <a href="mailto: contact@inkhaven.ca" class="d-inline-block text-decoration-none text-dark">
             <i class="bi bi-envelope-fill"></i> contact@inkhaven.ca
           </a>
+          <br>
+
+          <h5 class="mt-4">Horaires d'ouverture</h5>
+          <a class="d-inline-block text-decoration-none text-dark">
+            <i class="bi bi-clock"></i> Lun - Ven : 08h00 - 17h:00
+          </a>
 
           <h5 class="mt-4">Nous suivre</h5>
         
